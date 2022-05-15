@@ -1,0 +1,111 @@
+﻿body {
+    margin:0px;
+    font-family:sans-serif;
+}
+
+#header{
+    margin:0px;
+    height:210px;
+    background-color:aliceblue;
+
+}
+
+#headerTop {
+    margin:0px;
+    height: 66px;
+    background-color: #0082C4;
+}
+
+#topContainer{
+    width:1170px;
+    margin:0px;
+  
+}
+
+#secondContainer {
+    margin:0px;
+    width: 300px;
+    height: 76px;
+    background-color: #fcfcfc;
+}
+
+.textwhite{
+    font-family:Verdana;
+    font-size:12px;
+    text-decoration:none;
+    color:white;
+}
+
+.listayar {
+   
+    width:300px;
+    list-style: none;
+}
+
+#kolon1{
+    width:360px;
+    height:66px;
+    margin:0px;
+
+}
+
+#social{
+    margin: 0px 0px 0px 20px;
+    width:300px;
+}
+
+#SearchText{
+    margin:15px 0px;
+    float: right;
+    height: 30px;
+}
+
+#srch{
+
+    float:right;
+}
+
+.cleaner{
+
+    clear:both;
+}
+
+#logoPlace{
+    width:200px;
+    margin:0px;
+}
+
+#btlogo{
+    margin:20px auto;
+    width:263px;
+    height:38px;
+}
+
+#soru {
+    color: #767676a6;
+    font-family: sans-serif;
+    font-size: 10px;
+    list-style: none;
+
+}
+
+#email {
+  color: #767676a6;
+    font-family: sans-serif;
+    font-size: 10px;
+    list-style: none;
+    width:100px;
+   
+}
+
+#mailvesoru{
+    width:500px;
+}
+
+#miniContainer{
+    width:300px;
+   
+
+}
+
+

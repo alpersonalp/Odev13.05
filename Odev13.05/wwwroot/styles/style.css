@@ -1,0 +1,207 @@
+﻿body {
+    background-color: #f8f8f8;
+    margin: 0px
+}
+
+
+#header {
+    background-color: #f8f8f8;
+    height: 100px;
+    width: 200px;
+    margin: 0px auto;
+}
+
+
+
+#logo{
+    width:160px;
+    height:34px;
+    padding:20px;
+    margin:30px 0px 20px 0px;
+}
+
+#container {
+    background-color: #f8f8f8;
+    height: 600px;
+    width: 980px;
+    margin: 0 auto;
+}
+
+#login {
+    background-color: white;
+    width: 450px;
+    height: 500px;
+    border: 1px solid #809194;
+    margin: 0 auto;
+}
+
+#giris {
+    margin:50px 0px 20px 60px;
+    font-family:Arial;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+#username{
+    width:275px;
+    height:25px;
+    margin:15px 10px 0px 60px;
+    border-color:#9d9d9d7f
+}
+
+#password {
+    width: 275px;
+    height: 25px;
+    margin: 20px 10px 0px 60px;
+    border-color: #9d9d9d7f
+}
+
+#remember{
+    margin:10px 0px 0px 60px;
+    font-family:Verdana;
+    font-size:12px;
+    width:auto;
+}
+
+#LoginSubmit {
+    background-color: #489ae9;
+    box-shadow: 1px 0 2px 0 rgb(0 0 0 / 13%), 0 0 4px 0 rgb(0 0 0 / 11%), 0 2px 3px 0 rgb(0 0 0 / 16%);
+    text-shadow: none;
+    padding: 11px 22px;
+    border: 0;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    font-family: "Avenir Next",sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color:white;
+    height: 44px;
+    width:300px;
+    vertical-align:middle;
+    margin:20px 63px;
+}
+
+#forgot {
+    font-size: 12px;
+    font-family: Verdana;
+    margin: 0px 0px 0px 57px;
+    position: absolute;
+    z-index: 1;
+}
+
+#nouser{
+
+   text-align:center;
+   font-size:14px;
+   font-family:sans-serif;
+}
+
+#chckbox{
+  margin:0 auto;
+}
+
+#secpol{
+    font-family:sans-serif;
+    color:#787474b2;
+    font-size:12px;
+    text-align:center;
+}
+
+.clear {
+    clear: both;
+}
+
+.text {
+    padding: 15px 14px 0;
+}
+
+#border {
+ 
+ border:thin;
+ border-color:#d4d4d4;
+ border-style:solid;
+
+}
+
+
+
+.liststyle{
+    list-style-type:none;
+    margin:auto;
+}
+
+.redfont{
+    color:red;
+    
+
+}
+
+
+
+#phone{
+    width:40px;
+    position:absolute;
+    margin: 10px auto;
+    
+}
+#help {
+    width: 55px;
+    position: absolute;
+    margin: 10px 0px 0px 280px;
+}
+
+#footer {
+    padding: 30px 150px 12px;
+    width:950px;
+    margin:auto;
+}
+
+.language-selection {
+    font-size:13px;
+    font-family:sans-serif;
+    bottom: 7px;
+    width: 245px;
+    height: 50px;
+    background-color: #fff;
+    border: 1px solid #dedede;
+    box-sizing: border-box;
+    border-radius: 2px;
+    float:right;
+    margin:0px 36px;
+}
+
+
+
+
+#footerIn {
+    width: 984px;
+    height: 50px;
+}
+
+#musteri {
+    float: left;
+    width: 200px;
+    margin: 0px 0px 10px 10px;
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#yardim {
+    float: left;
+    width: 200px;
+    margin: 0px 90px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+#warning{
+    background-color:white;
+    font-size:12px;
+    font-family:sans-serif;
+    color:#809194;
+    border:dashed;
+    border-color:#5353539c;
+    border-width:thin;
+}
